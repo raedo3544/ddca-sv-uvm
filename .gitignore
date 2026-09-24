@@ -1,0 +1,20 @@
+# Vivado files
+*.jou
+*.log
+*.pb
+*.str
+*.wdb
+*.dir/
+.Xil/
+vivado_prj/
+
+# QuestaSim files
+work/
+*.wlf
+transcript
+*.vstf
+modelsim.ini
+
+# OS generated files
+.DS_Store
+Thumbs.db
