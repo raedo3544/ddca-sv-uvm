@@ -1,0 +1,15 @@
+D:/ddca-sv-uvm/rtl/full_adder.sv {1 {vlog -work work -vopt -sv -stats=none D:/ddca-sv-uvm/rtl/full_adder.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module full_adder
+
+Top level modules:
+	full_adder
+
+} {} {}} D:/ddca-sv-uvm/tb/full_adder_tb.sv {1 {vlog -work work -vopt -sv -stats=none D:/ddca-sv-uvm/tb/full_adder_tb.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module full_adder_tb
+
+Top level modules:
+	full_adder_tb
+
+} {} {}}

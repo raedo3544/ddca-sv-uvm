@@ -1,0 +1,9 @@
+module full_adder(
+    input logic a,b,cin,
+    output logic sum,cout
+);
+always_comb begin
+    sum=(a ^ b) ^cin;
+     cout=(a&b) | (cin & (a ^ b));//procedural statements are the opposite the output is left handed 
+end
+endmodule
