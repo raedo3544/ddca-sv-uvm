@@ -1,0 +1,8 @@
+D:/ddca-sv-uvm/tb/BCD_dis_cont_tb.sv {1 {vlog -work work -vopt -sv -stats=none D:/ddca-sv-uvm/tb/BCD_dis_cont_tb.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module BCD_display_tb
+
+Top level modules:
+	BCD_display_tb
+
+} {} {}}
